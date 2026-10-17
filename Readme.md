@@ -1,17 +1,23 @@
 # ⚡ Red Bull — 3D Interactive Website
 
-A futuristic, Red Bull-inspired energy drink landing page built using **HTML, CSS, and JavaScript**. The website features 3D-style animations, interactive product effects, glowing visuals, and a responsive design.
+A futuristic, Red Bull-inspired energy drink landing page built using **HTML, CSS, and JavaScript**.
+
+## 🌐 Live Demo
+
+🚀 **Visit the deployed website:** https://redbull-rho-topaz.vercel.app/
+
+[![Live Website](https://img.shields.io/badge/Live%20Demo-Visit%20Website-red?style=for-the-badge\&logo=vercel)](https://redbull-rho-topaz.vercel.app/)
 
 ## 🚀 Features
 
-* 🎨 **Futuristic UI:** Dark theme with neon blue and red accents.
-* 🥤 **3D-Style Product:** CSS-designed energy drink can with floating animations.
-* 🌀 **Animated Background:** Floating particles, glowing effects, and rotating energy rings.
-* 🖱️ **Mouse Interaction:** Interactive product rotation based on mouse movement.
-* ⚡ **Energy Mode:** Interactive button that changes the website's accent colors.
-* 📱 **Responsive Design:** Supports desktop, tablet, and mobile screens.
-* ✨ **Smooth Animations:** Animated elements and smooth scrolling.
-* 📂 **Simple Structure:** Built with vanilla HTML, CSS, and JavaScript.
+* 🎨 Futuristic UI with neon blue and red accents.
+* 🥤 CSS-designed energy drink can with floating animations.
+* 🌀 Animated particles and rotating energy rings.
+* 🖱️ Interactive product rotation based on mouse movement.
+* ⚡ Interactive energy mode with changing accent colors.
+* 📱 Responsive design for desktop and mobile.
+* ✨ Smooth animations and scrolling.
+* 📂 Built with vanilla HTML, CSS, and JavaScript.
 
 ## 🛠️ Technologies Used
 
@@ -24,7 +30,6 @@ A futuristic, Red Bull-inspired energy drink landing page built using **HTML, CS
 
 ```text
 redbull-4d-website/
-│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,41 +44,35 @@ redbull-4d-website/
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
+Replace `YOUR_GITHUB_REPOSITORY_URL` with your GitHub repository URL.
 
 ### 2. Open the project
-
-Navigate to the project directory:
 
 ```bash
 cd redbull-4d-website
 ```
 
-### 3. Run the website
+### 3. Run locally
 
-Open `index.html` directly in your browser, or use the **Live Server** extension in Visual Studio Code.
+Open `index.html` in your browser or use the Live Server extension in Visual Studio Code.
 
 No additional dependencies or API keys are required.
 
-## 🌐 Deployment
+## 🌍 Deployment
 
-You can deploy this static website using any suitable static hosting provider, including:
+This project is deployed on Vercel.
 
-* GitHub Pages
-* Netlify
-* Vercel
-
-Upload or connect your repository and configure the deployment to serve `index.html` from the project root.
+**Live URL:** https://redbull-rho-topaz.vercel.app/
 
 ## 🎯 Project Goal
 
-The goal is to create an immersive, futuristic product landing page that demonstrates modern web design techniques, CSS animations, JavaScript interactivity, and responsive layouts.
+To demonstrate modern web design techniques, CSS animations, JavaScript interactivity, and responsive layouts through a futuristic energy drink landing page.
 
 ## ⚠️ Disclaimer
 
-This is an unofficial, educational website inspired by Red Bull's branding and energy drink aesthetic. It is not affiliated with, endorsed by, or sponsored by Red Bull GmbH.
+This is an unofficial educational project inspired by Red Bull's branding and energy drink aesthetic. It is not affiliated with or endorsed by Red Bull GmbH.
 
-The product illustration is created using CSS and is not a photorealistic 3D model. The term "4D-style" describes the visual experience and interactive effects; the project does not implement actual 4D technology.
+The product illustration is created using CSS and is not a photorealistic 3D model. "4D-style" refers to visual effects and interactivity, not actual 4D technology.
 
 ## 👨‍💻 Author
 
